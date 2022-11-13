@@ -6,13 +6,13 @@ The dataset is now in the KU Leuven research data repository, you can download t
 ## Citation
 If you use this dataset, please consider citing our publication:
 
-C. Wang, T. S. Kumar, W. De Raedt, G. Camps, H. Hallez, and B. Vanrumste, “Drinking Gesture Detection Using Wrist-Worn IMU Sensors with Multi-Stage Temporal Convolutional Network in Free-Living Environments,” Proc. Annu. Int. Conf. IEEE Eng. Med. Biol. Soc. EMBS, pp. 1807–1811, 2022
+C. Wang, T. S. Kumar, W. De Raedt, G. Camps, H. Hallez, and B. Vanrumste, “Drinking Gesture Detection Using Wrist-Worn IMU Sensors with Multi-Stage Temporal Convolutional Network in Free-Living Environments,” Proc. Annu. Int. Conf. IEEE Eng. Med. Biol. Soc. EMBS, pp. 1778–1782, 2022
 
 @INPROCEEDINGS{wang2022drinking,  
   author={Wang, Chunzhuo and Kumar, T. Sunil and De Raedt, Walter and Camps, Guido and Hallez, Hans and Vanrumste, Bart},  
   booktitle={2022 44rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)},   
   title={Drinking Gesture Detection Using Wrist-Worn IMU Sensors with Multi-Stage Temporal Convolutional Network in Free-Living Environments},   
   year={2022},  
-  pages={1807-1811},  
+  pages={1778-1782},  
   organization={IEEE}  
   }  
